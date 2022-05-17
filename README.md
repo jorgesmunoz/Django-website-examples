@@ -1,2 +1,2 @@
-# django_3_fill_stack_websites
+# Django website examples
 Django websites examples
